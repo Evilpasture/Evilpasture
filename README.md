@@ -20,6 +20,9 @@ A heavily refactored fork of **ZenGL**, revamped for AZDO, compute shading, SSBO
 - **Specialties:** Python C-Extensions, memoryview tricks, and some low-level OpenGL (AZDO/Bindless).
 - **Tools:** CMake (I brute-forced it), GitHub Actions (for cross-platform wheels), and NumPy.
 
+### AI usage
+I use AI. Extensively. But I'm not the type of person to just let an IDE open and somehow it codes for you like magic. It's just as time-consuming to fix bugs AI left for you to fix like a puzzle, except that said puzzles are hiding right underneath my nose. It's still a force multiplier, though... and I do think it makes things that used to be "impossible" for me now becomes plausible. Like my projects above.
+
 ### Currently learning
 - Better ways to handle concurrency in Python 3.14.
 - Half-trying on learning how C++ actually works so I don't have to keep being stupid. (will never touch C++ for real)
