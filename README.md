@@ -27,3 +27,6 @@ I use AI. Extensively. But I'm not the type of person to just let an IDE open an
 - Better ways to handle concurrency in Python 3.14.
 - Half-trying on learning how C++ actually works so I don't have to keep being stupid. (will never touch C++ for real)
 - Building a game engine using Culverin + HyperGL.
+
+### Contacts
+I have a Discord account. My handle is "enwifi". This is probably where I will 99% get in touch.
