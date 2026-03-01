@@ -5,6 +5,10 @@ Hello.
 
 ## Current status
 
+National Defense Education. Check in a few weeks later.
+
+## Projects
+
 ### [Culverin](https://github.com/Evilpasture/Culverin)
 ![PyPI - Version](https://img.shields.io/pypi/v/culverin)
 
