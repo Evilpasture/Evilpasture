@@ -3,6 +3,9 @@ I’m a Data Science undergrad who spends a lot of time in Python's C API. I lik
 ### Current status
 
 #### [Culverin](https://github.com/Evilpasture/Culverin)
+![PyPI - Version](https://img.shields.io/pypi/v/culverin)
+
+
 A Jolt Physics wrapper for Python that focuses on **memory-mapped performance**.
 - **The Pitch:** Most wrappers are slow because they copy data. This one uses C shadow buffers to let you read 10,000 objects in 0.02ms.
 - **Modern Features:** It's built for **Python 3.13t (Free-Threaded)**. It releases the GIL so physics and logic actually run on different cores.
