@@ -5,7 +5,7 @@ Hello.
 
 ## Current status
 
-National Defense Education. Check in a few weeks later.
+A bit busy with university, but I have time.
 
 ## Projects
 
