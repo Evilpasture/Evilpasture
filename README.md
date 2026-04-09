@@ -3,9 +3,9 @@
   <p align="center"><i>Hello.</i></p>
 </div>
 
-## Current status
+## My Page!
 
-A bit busy with university, but I have time.
+https://evilpasture.github.io/
 
 ## Projects
 
