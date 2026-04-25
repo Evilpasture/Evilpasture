@@ -14,8 +14,9 @@ https://evilpasture.github.io/
 
 A Jolt Physics wrapper for Python.
 
-#### [HyperGL](https://github.com/Evilpasture/HyperGL)
-A heavily refactored fork of **ZenGL**.
+#### [CaravanGL](https://github.com/Evilpasture/CaravanGL)
+Modern dual-purpose OpenGL type-safe loader for pure C development with high-performance Python wrappings. 
+Cross-platform is VIP.
 
 ## Skills...?
 - **Languages:** Python and C.
