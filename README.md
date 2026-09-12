@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="banner.jpg" width="100%" />
-  <p align="center"><i>Hello.</i></p>
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="banner.jpg" width="100%" /> -->
+<!--   <p align="center"><i>Hello.</i></p> -->
+<!-- </div> -->
 
 ## My Page!
 
@@ -14,21 +14,9 @@ https://evilpasture.github.io/
 
 A Jolt Physics wrapper for Python.
 
-#### [CaravanGL](https://github.com/Evilpasture/CaravanGL)
-Modern dual-purpose OpenGL type-safe loader for pure C development with high-performance Python wrappings. 
-Cross-platform is VIP.
+### [Zahlen](https://github.com/Evilpasture/project-zahlen)
 
-## Skills...?
-- **Languages:** Python and C.
-- **Specialties:** Python C-Extensions with manual reference counting.
-- **Tools:** A custom [1 byte mutex](https://github.com/Evilpasture/mag-mutex) and whatever I have in my headers.
-
-## AI usage
-Yes.
-
-## Working on
-- Better ways to handle concurrency in Python 3.14t/3.15t
-- Building a game engine using Culverin + HyperGL.
+A game engine in C++ and Vulkan.
 
 ## Contacts
 I have a Discord account. My handle is "enwifi". This is probably where I will 99% get in touch.
